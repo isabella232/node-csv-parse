@@ -1,6 +1,6 @@
 {
   "version": "4.0.1",
-  "name": "csv-parse",
+  "name": "@postman/csv-parse",
   "description": "CSV parsing implementing the Node.js `stream.Transform` API",
   "keywords": [
     "csv",
@@ -28,12 +28,12 @@
     "Joe Eaves (https://github.com/Joeasaurus)",
     "Mark Stosberg (https://github.com/markstos)"
   ],
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wdavidw/node-csv-parse"
+    "url": "https://github.com/postmanlabs/node-csv-parse"
   },
-  "homepage": "https://csv.js.org/parse/",
+  "homepage": "https://github.com/postmanlabs/node-csv-parse#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
