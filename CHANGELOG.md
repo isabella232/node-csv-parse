@@ -1,7 +1,7 @@
 
 # Changelog
 
-## Trunk
+## Version 4.0.2
 
 * security: remove regexp vulnerable to DOS in cast option, npm report 69742
 
